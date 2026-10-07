@@ -1,6 +1,6 @@
 # Taska Community
 
-**Taska** is a BIM issue tracker by [BIMPROVE](https://bim-prove.com) that lives right where the model is: inside Autodesk Revit, inside Autodesk Navisworks, or as a standalone desktop app.
+**Taska** is BIM Collaboration Infrastructure by [BIMPROVE](https://bim-prove.com) that lives right where the model is: inside Autodesk Revit, inside Autodesk Navisworks, or as a standalone desktop app.
 
 This repository is the public home of Taska. Here you find everything meant for users and integrators.
 
